@@ -1,0 +1,10 @@
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\ServerApplication.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\sheduling\TransactionTimer.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\hub\BinaryMetadataEventSaveArgs.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\controller\BinController.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\hub\BinaryMetadataEventConfirmArgs.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\extensions\BinaryModelExtension.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\hub\BinaryDataHub.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\serialize\BinaryMetadataSerialize.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\service\BinaryMetadataServerService.java
+D:\GitSmevJava\binaryStorage\server\src\main\java\ru\spandco\binstorage\server\config\MvcConfig.java

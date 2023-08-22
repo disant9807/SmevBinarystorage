@@ -1,0 +1,13 @@
+ru\spandco\binstorage\server\hub\BinaryMetadataEventConfirmArgs.class
+ru\spandco\binstorage\server\serialize\BinaryMetadataSerialize.class
+ru\spandco\binstorage\server\service\BinaryMetadataServerService.class
+ru\spandco\binstorage\server\ServerApplication.class
+ru\spandco\binstorage\server\sheduling\TransactionTimer$1.class
+ru\spandco\binstorage\server\controller\BinController.class
+ru\spandco\binstorage\server\hub\BinaryMetadataEventSaveArgs.class
+ru\spandco\binstorage\server\sheduling\TransactionTimer.class
+ru\spandco\binstorage\server\config\MvcConfig$OpenApiConfig.class
+ru\spandco\binstorage\server\hub\BinaryDataHub.class
+ru\spandco\binstorage\server\config\MvcConfig.class
+ru\spandco\binstorage\server\extensions\BinaryModelExtension.class
+ru\spandco\binstorage\server\service\BinaryMetadataServerService$1.class

@@ -1,0 +1,5 @@
+ru\spandco\logic\storage\entity\BinaryMetadata.class
+ru\spandco\logic\storage\config\LogicConfig.class
+ru\spandco\logic\storage\config\StorageConfig.class
+ru\spandco\logic\storage\service\BinaryMetadataService.class
+ru\spandco\logic\storage\dao\BinaryMetadataDao.class
