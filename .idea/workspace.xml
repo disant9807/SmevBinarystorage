@@ -9,67 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d322de9-0827-439e-906f-bfbd7e96f360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/server_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ServerApplication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/src/main/java/ru/spandco/binstorageproxy/BinaryProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binStorageProxy/src/test/java/ru/spandco/binstorageproxy/BinStorageProxyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/src/main/java/ru/spandco/binarystoragemodel/ApiHeaders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/src/main/java/ru/spandco/binarystoragemodel/BinaryModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/src/main/java/ru/spandco/binarystoragemodel/SaveMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryStorageModel/src/test/java/ru/spandco/ibinarystorage/IbinaryStorageApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/java/ru/spandco/logic/storage/config/LogicConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/java/ru/spandco/logic/storage/config/StorageConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/java/ru/spandco/logic/storage/dao/BinaryMetadataDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/java/ru/spandco/logic/storage/entity/BinaryMetadata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/java/ru/spandco/logic/storage/service/BinaryMetadataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic/src/test/java/ru/spandco/logic/LogicApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/ServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/config/MvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/controller/BinController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/extensions/BinaryModelExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/hub/BinaryDataHub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/hub/BinaryMetadataEventConfirmArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/hub/BinaryMetadataEventSaveArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/serialize/BinaryMetadataSerialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/service/BinaryMetadataServerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/ru/spandco/binstorage/server/sheduling/TransactionTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/test/java/ru/spandco/binstorage/server/ServerApplicationTests.java" afterDir="false" />
+    <list default="true" id="0d322de9-0827-439e-906f-bfbd7e96f360" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,35 +53,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GitSmevJava/binaryStorage&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;b61db1746c003ff5db3aaa0788736f71&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/GitSmevJava/binaryStorage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "b61db1746c003ff5db3aaa0788736f71",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitSmevJava\binaryStorage\logic\src\main\resources" />
-      <recent name="D:\GitSmevJava\binaryStorage\logic\target\classes\ru\spandco\logic\storage\config" />
+      <recent name="D:\GitSmevJava\binaryStorage\.idea" />
+      <recent name="D:\GitSmevJava\binaryStorage\binaryStorageModel" />
+      <recent name="D:\GitSmevJava\binaryStorage\binStorageProxy" />
+      <recent name="D:\GitSmevJava\binaryStorage\logic" />
+      <recent name="D:\GitSmevJava\binaryStorage\server" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="ru.spandco.ibinarystorage" />
@@ -347,7 +291,17 @@
       <workItem from="1691990547667" duration="4029000" />
       <workItem from="1692181540032" duration="12252000" />
       <workItem from="1692618607130" duration="1549000" />
+      <workItem from="1692702144576" duration="1410000" />
+      <workItem from="1692703750905" duration="407000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1692702372850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692702372850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,6 +317,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
