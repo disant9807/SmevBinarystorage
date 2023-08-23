@@ -11,4 +11,4 @@
 - binStorageProxy - Модуль прокси для связи в других сервисах с текущим. Сборка Maven в директории binStorageProxy *clean compile package install -Dmaven.test.skip*
 
 ### Сборка
-Выполнить команду мавен *clean compile package -Dmaven.test.skip* в рабочей директории. После этого запускать server-internal.jar
+Выполнить команду мавен *clean compile package -Dmaven.test.skip* в директории root. После этого запускать server-internal.jar
